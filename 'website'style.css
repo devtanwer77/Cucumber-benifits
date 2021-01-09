@@ -1,0 +1,109 @@
+.heading1{
+
+	color: #1323B8;
+	font-family: 'Roboto Slab', serif;
+	font-size: 30px;
+    text-align: center;
+    border-bottom:  2px solid #05CA12;
+	border-right: 2px solid #05CA12;
+	border-left:  2px solid #05CA12;
+	width: 1500px;
+	
+
+}
+
+
+p{
+
+	font-family: 'Maven Pro', sans-serif;
+	font-size: 23px;
+	color: #2C7A57;
+
+
+}
+
+
+li{
+
+
+   font-family: 'Maven Pro', sans-serif;
+	font-size: 23px;
+	color: #2C7A57;
+
+
+
+}
+
+
+.asta{
+
+	font-family: 'Karla', sans-serif;
+	font-size: 29px;
+	text-align: left;
+	color: #9CAC3D;
+}
+
+.asta2{
+
+	font-family: 'Karla', sans-serif;
+	font-size: 29px;
+	text-align: left;
+	color: #9CAC3D;
+}
+
+.asta3{
+
+	font-family: 'Karla', sans-serif;
+	font-size: 29px;
+	text-align: left;
+	color: #9CAC3D;
+}
+
+h2{
+
+	font-family: 'Kreon', serif;
+	font-size: 28px;
+	color: #B1513F;
+}
+
+img{
+
+	width: 250px;
+	height: 300px;
+	transition: all 1s;
+	margin: 25px;
+
+
+}
+
+img:hover{
+
+	transform: scale(1.2);
+}
+
+
+
+
+footer{
+
+   font-family: fantasy , georgia;
+   font-size: 26px;
+   text-align: center;
+   border: 5px dashed #FF1806;
+   background-color: #FF7706;
+   transition: all 1s;
+   margin: 19px;
+
+}
+
+footer:hover{
+
+   transform: scale(1.1);
+
+}
+
+body{
+
+	background-color: rgba(9, 99, 173 , 0.2);
+    background-size: auto;
+}
